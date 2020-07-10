@@ -57,6 +57,7 @@ Note :
 + [TensorFlow in Practice Specialization - Coursera](https://www.coursera.org/specializations/tensorflow-in-practice?)
 + [fast.ai](http://www.fast.ai/)
 + [Stanford University's CS224n - NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
++ [MIT Introduction to Deep Learning 6.S191](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 ## Reinforcement Learning Tutorials
 + [David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
@@ -84,6 +85,9 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 
 ## Deep Learning Books
 + [Deep Learning Book](http://www.deeplearningbook.org/)
++ [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/gp/product/1491962291/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491962291&linkCode=as2&tag=petacrunch-20&linkId=8d26b4a376e2e4f6d50deec487694bce)
++ [Deep Learning with Python](https://www.amazon.com/gp/product/1617294438/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617294438&linkCode=as2&tag=petacrunch-20&linkId=fa7304c5324df649a4ba536bd74927d2)
++ [Deep Learning](https://www.amazon.com/gp/product/0262035618/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262035618&linkCode=as2&tag=petacrunch-20&linkId=00701393c949f16bfd3a89d9c3240b35)
 
 ## Mathematics for Machine Learning
 + [The Matrix Calculus You Need For Deep Learning - - Quick refresher](https://arxiv.org/pdf/1802.01528) 
