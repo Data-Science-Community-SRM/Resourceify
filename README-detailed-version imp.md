@@ -10,6 +10,8 @@ It is not that easy to classify subjects in Data Science. Some courses may corre
 ---
 
 # TABLE OF CONTENTS
+
+
 1. [Introductory Courses in Data Science](#1-introductory-courses-in-data-science-back-to-top-).
     - [Python](#python-back-to-top-). 
     - [R](#r-back-to-top-).
