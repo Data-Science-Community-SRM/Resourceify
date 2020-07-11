@@ -30,4 +30,44 @@ This is a selection of books for Data Science and related disciplines from which
 | ◻️ | [Data Science at the Command Line](https://www.safaribooksonline.com/library/view/data-science-at/9781491947845/) | Jeroen Janssens | O'Reilly | Oct&nbsp;2014 | [GitHub](https://github.com/jeroenjanssens/data-science-at-the-command-line) |
 | ✔️ | [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python) | Raúl Garreta, Guillermo Moncecchi | Packt | Nov&nbsp;2013 | [GitHub](https://github.com/gmonce/scikit-learn-book) |
 
-_(*) Expected publication date_
+
+<br> <br>
+
+# More Books and Further reading material
+
+## Machine Learning Books for reference
++ [Introduction to Statstical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
++ [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) (A little more in-depth than ISLR)
++ [Pattern Recognition And Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+
+
+Note : Learn from official tutorials/docs or GitHub repos which have detailed notebooks like [Hvass Labs](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+
+## Deep Learning Books
++ [Deep Learning Book](http://www.deeplearningbook.org/)
++ [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/gp/product/1491962291/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491962291&linkCode=as2&tag=petacrunch-20&linkId=8d26b4a376e2e4f6d50deec487694bce)
++ [Deep Learning with Python](https://www.amazon.com/gp/product/1617294438/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617294438&linkCode=as2&tag=petacrunch-20&linkId=fa7304c5324df649a4ba536bd74927d2)
++ [Deep Learning](https://www.amazon.com/gp/product/0262035618/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262035618&linkCode=as2&tag=petacrunch-20&linkId=00701393c949f16bfd3a89d9c3240b35)
+
+## Mathematics for Machine Learning
++ [The Matrix Calculus You Need For Deep Learning - - Quick refresher](https://arxiv.org/pdf/1802.01528) 
++ [Mathematics for Machine Learning - Intermediate ](https://mml-book.github.io/) 
++ [Numerical Algorithms - Advanced](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) 
+
+## Natural Language Processing 
++ [Natural Language Processing by National Research University Higher School of Economics](https://www.coursera.org/learn/language-processing)
++ [NLP course by Yandex Data School](https://github.com/yandexdataschool/nlp_course)
+
+
+## Reinforcement Learning Books
++ [Reinforcement Learning – An Introduction](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
+
+## Read blogs, Reddit, follow researchers on Twitter
++ [Towards Data Science](https://towardsdatascience.com/)
++ [Sebastian Ruder](http://ruder.io/)
++ [montreal.ai](https://montrealartificialintelligence.com/)
++ [thegradient](https://thegradient.pub/)
++ [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
++ [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/)
++ [https://github.com/ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+
