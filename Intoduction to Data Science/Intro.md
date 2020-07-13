@@ -1,6 +1,6 @@
 
-# 1. INTRODUCTORY COURSES IN DATA SCIENCE <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 1. INTRODUCTORY COURSES IN DATA SCIENCE <sub><sup><sub>([back &uarr;](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/README.md))</sub></sup></sub>
+### Python
 - [X] [Intro to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x) (by Filip Schouwenaars from DataCamp and Jonathan Sanito from Microsoft at edX). ~ 12 hours.
   1. Python Basics.
   2. List - A Data Structure.

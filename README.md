@@ -1,4 +1,6 @@
-# RESOURCEIFY
+# RESOURCEIFY   
+(Under-Development)
+
 A curated list of everything you need in the field of Data Science, Machine Learning and Artificial Intelligence including but not limited to Online Courses, Documentations, Blogs, Podcasts, Cheatsheets, research papers, latest developments etc..
 
 ---
@@ -6,41 +8,38 @@ A curated list of everything you need in the field of Data Science, Machine Lear
 # TABLE OF CONTENTS
 
 
-1. [Introductory Courses in Data Science](#1-introductory-courses-in-data-science-back-to-top-).
-    - [Python](#python-back-to-top-). 
-    - [R](#r-back-to-top-).
-    - [SQL](#sql-back-to-top-).
+1. [Introductory Courses in Data Science](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Intoduction%20to%20Data%20Science/Intro.md).
+    - [Python](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Intoduction%20to%20Data%20Science/Intro.md). 
+    - [R](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Intoduction%20to%20Data%20Science/Intro.md).
+    - [SQL](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Intoduction%20to%20Data%20Science/Intro.md).
 2. [General Courses in Data Science](#2-general-courses-in-data-science-back-to-top-).
     - [Python](#python-back-to-top--1).
     - [R](#r-back-to-top--1).
-3. [Data Analysis](#data-analysis-back-to-top--2).
-    - [Python](#python-back-to-top--2).
-    - [R](#r-back-to-top--2).
-    - [Weka](#weka-back-to-top-).
-4. [Machine Learning](#4-machine-learning-back-to-top-).
-    - [Octave/Matlab](#octavematlab-back-to-top-).
-    - [Python](#python-back-to-top--3).
-    - [R](#r-back-to-top--3).
-5. [Text Mining and NLP](#5-text-mining-and-nlp-back-to-top-).
-    - [Python](#python-back-to-top--4).
-    - [R](#r-back-to-top--4).
-6. [Data Visualization and Reporting](#6-data-visualization-and-reporting-back-to-top-).
-    - [Python](#python-back-to-top--5).
-    - [R](#r-back-to-top--5).
-    - [JavaScript](#javascript-back-to-top-).
-7. [Probability and Statistics](#7-probability-and-statistics-back-to-top-).
-    - [Python](#python-back-to-top--6).
-    - [R](#r-back-to-top--6).
-8. [Big Data](#8-big-data-back-to-top-).
-    - [General](#general-back-to-top-).
-    - [Spark](#spark-back-to-top-).
-9. [Books](#9-books-back-to-top-).    
-10. [Other courses in Computer Science](#10-other-courses-in-computer-science-back-to-top-).
-    - [Software Design](#software-design-back-to-top-).
-    - [JavaScript](#javascript-back-to-top--1).
-    - [Python](#python-back-to-top--7).
-    - [R](#r-back-to-top--7).
-    - [Miscellaneous](#miscellaneous-back-to-top-).
+3. [Data Analysis](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Analysis/DataAnalysis.md).
+    - [Python](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Analysis/DataAnalysis.md).
+    - [R](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Analysis/DataAnalysis.md).
+4. [Machine Learning](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Machine%20Learning/ML.md).
+    - [Octave/Matlab](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Machine%20Learning/ML.md).
+    - [Python](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Machine%20Learning/ML.md).
+    - [R](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Machine%20Learning/ML.md).
+5. [NLP and Text Mining](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/NLP%20-%20Text%20Mining/NLP.md).
+    - [Python](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/NLP%20-%20Text%20Mining/NLP.md).
+    - [R](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/NLP%20-%20Text%20Mining/NLP.md).
+6. [Data Visualization and Reporting](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Visualization/DataVisualization.md).
+    - [Python](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Visualization/DataVisualization.md).
+    - [R](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Visualization/DataVisualization.md).
+    - [JavaScript](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Visualization/DataVisualization.md).
+7. [Probability and Statistics](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Statistics-Probability/Resources.md).
+    - [Python](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Statistics-Probability/Resources.md).
+    - [R](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Statistics-Probability/Resources.md).
+8. [Big Data](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Big%20Data/BigData.md).
+    - [General](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Big%20Data/BigData.md).
+    - [Spark](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Big%20Data/BigData.md).
+9. [Books and Reading Material](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Books-Reading/Books.md)
+10. [Cheatsheets](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Cheatsheets/README.md)    
+    - The best Collection of all the Cheatsheets and workflow you will ever need
+11. [Miscelleanous Resources](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/tree/master/Miscellaneous).
+    
 
 ---  
 
