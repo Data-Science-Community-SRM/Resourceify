@@ -7,3 +7,7 @@
 + [Flask](https://www.tutorialspoint.com/flask/index.htm)
 + [Flutter](https://www.tutorialspoint.com/flutter/index.htm)
 
+- [X] [Try Docker](https://www.codeschool.com/courses/try-docker) (by Jon Friskics at Codeschool.com). ~  1 hour.
+  1. Containers & Images.
+  2. Dockerfiles.
+  3. Volumes.

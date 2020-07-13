@@ -39,6 +39,17 @@
   4. Handling Dates and Times.
   5. Answering Data Science Questions.  
 
+
+
+- [ ] [Master thesis corresponding to the Master in Computational Engineering and Intelligent Systems program](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Javier Estraviz. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 18 ECTS ~ 450 hours. Expected: 2018. 
+- [ ] [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) (by Dave Holtz and Cheng-Han Lee at Udacity). ~ 80 hours.
+  1. Introduction to Data Science.
+  2. Data Wrangling.
+  3. Data Analysis.
+  4. Data Visualization.
+  5. MapReduce.
+
+
 ### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
 - [X] [Mathematical and Statistical Sofware](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Yosu Yurramendi, Master in Computational Engineering and Intelligent Systems, University of the Basque Country). 3 ECTS ~ 75 hours.
   1. Basic concepts of R.
@@ -72,7 +83,28 @@
   3. Functions.
   4. The apply family.
   5. Utilities.
-  6. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/f09efefd0659308948d6e4290e348112b03a6ba8).
+
+- [X] [15.071x The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x) (by Dimitris Bertsimas from MITx at edX). ~ 120 hours.
+  1. An Introduction to Analytics.
+  2. Linear Regression.
+  3. Logistic Regression.
+  4. Trees.
+  5. Text Analytics.
+  6. Clustering.
+  7. Visualization.
+  8. Linear Optimization.
+  9. Integer Optimization.
+  10. [Course Certificate &#10003;](https://s3.amazonaws.com/verify.edx.org/downloads/51a6577e81cd4481ae32e8d670740f47/Certificate.pdf).
+- [ ] [Data Science Capstone](https://www.coursera.org/learn/data-science-project) (by Jeff Leek, Roger D. Peng and Brian Caffo from Johns Hopkins University at Coursera). 35 hours.
+  1. Overview, Understanding the Problem, and Getting the Data.
+  2. Exploratory Data Analysis and Modeling.
+  3. Prediction Model.
+  4. Creative Exploration.
+  5. Data Product.
+  6. Slide Deck.
+  7. Final Project Submission and Evaluation.
+
+
 - [X] [Intermediate R - Practice](https://www.datacamp.com/courses/intermediate-r-practice) (by Filip Schouwenaars at DataCamp). Same sections to the previous course. ~ 4 hours.
   1. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/1db3b69f78a7104304ead209969d77ddd12b624a).
 - [ ] [Writing Functions in R](https://www.datacamp.com/courses/writing-functions-in-r) (by Hadley Wickham and Charlotte Wickham at DataCamp). ~ 4 hours.
