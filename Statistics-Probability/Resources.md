@@ -1,6 +1,6 @@
 
-# 7. PROBABILITY AND STATISTICS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 7. PROBABILITY AND STATISTICS <sub><sup><sub>([back &uarr;](#table-of-contents))</sub></sup></sub>
+# Python 
 - [X] [Probabilistic Modeling and Bayesian Networks](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Borja Calvo and Aritz Pérez. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
   1. Introduction to probabilistic modeling. 
   2. Modeling of joint probabilities through Bayesian networks.
@@ -11,7 +11,7 @@
   2. Quantitative exploratory data analysis.
   3. Thinking probabilistically-- Discrete variables.
   4. Thinking probabilistically-- Continuous variables.
-  5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/c4d451bf7fcb9e0aa9fb8cca0748d10b86e38a9a). 
+
 - [ ] [Developing Data Products](https://www.coursera.org/learn/data-products) (by Brian Caffo, Jeff Leek and Roger D. Peng from Johns Hopkins University at Coursera). ~ 16 hours.
   1. `shiny`, `googleVis`, and `plotly`.
   2. R Markdown and `leaflet`.
@@ -40,19 +40,19 @@
   3. Comparing graphs & time-dynamic graphs.
   4. Tying it up!.
 
-### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
+# R 
 - [X] [Statistical Inference](https://www.coursera.org/learn/statistical-inference) (by Brian Caffo, Roger D. Peng and Jeff Leek from Johns Hopkins University at Coursera). ~ 28 hours.
   1. Probability & Expected Values.
   2. Variability, Distribution, & Asymptotics.
   3. Intervals, Testing, & Pvalues.
   4. Power, Bootstrapping, & Permutation Tests.
-  5. [Course Certificate &#10003;](https://www.coursera.org/account/accomplishments/certificate/UZWDXYB2MX).
+ 
 - [X] [Regression Models](https://www.coursera.org/learn/regression-models) (by Brian Caffo, Roger D. Peng and Jeff Leek from Johns Hopkins University at Coursera). ~ 16 hours.
   1. Least Squares and Linear Regression.
   2. Linear Regression & Multivariable Regression.
   3. Multivariable Regression, Residuals, & Diagnostics.
   4. Logistic Regression and Poisson Regression.
-  5. [Course Certificate &#10003;](https://www.coursera.org/account/accomplishments/certificate/VJX8TWXB62).
+ 
 - [ ] [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) (by Trevor Hastie and Robert Tibshirani from Stanford at Stanford Online). ~ 50 hours.
   1. Introduction.
   2. Overview of Statistical Learning.

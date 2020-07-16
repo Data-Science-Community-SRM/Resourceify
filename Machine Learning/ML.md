@@ -1,6 +1,6 @@
 
-# 4. MACHINE LEARNING <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-### Octave/Matlab <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 4. MACHINE LEARNING <sub><sup><sub>([back &uarr;](#table-of-contents))</sub></sup></sub>
+## Octave/Matlab 
 - [X] [Machine Learning](https://www.coursera.org/learn/machine-learning) (by Andrew Ng from at Stanford at Coursera). ~ 55 hours.
   1. Introduction.
   2. Linear Regression with One Variable.
@@ -19,7 +19,8 @@
   15. Recommender Systems.
   16. Large Scale Machine Learning.
   17. Application Example: Photo OCR.
-  18. [Course Certificate &#10003;](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=973756).
+
+
 - [ ] [Learning from Data]() (by Yaser Abu-Mostafa at Caltech). ~ 108 hours.
   1. The Learning Problem
   2. Is Learning Feasible?
@@ -40,14 +41,15 @@
   17. Three Learning Principles.
   18. Epilogue.
 
-### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# Python 
 - [X] [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) (by Benjamin Wilson at DataCamp). ~ 4 hours.
   1. Clustering for dataset exploration.
   2. Visualization with hierarchical clustering and t-SNE.
   3. Decorrelating your data and dimension reduction.
   4. Discovering interpretable features.
-  5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/ef65643acd968edbb19a7d4ebfbfa092793b45ce).
-- [X] [Making Predictions with Data and Python](https://www.safaribooksonline.com/library/view/making-predictions-with/9781788297448/) (by Alvaro Fuentes at Safari). ~ 4 hours. _[My github repo](https://github.com/estraviz/Making-Predictions-with-Data-and-Python)._
+ 
+
+- [X] [Making Predictions with Data and Python](https://www.safaribooksonline.com/library/view/making-predictions-with/9781788297448/) (by Alvaro Fuentes at Safari). ~ 4 hours.
   1. Chapter 1 : The Tools for Doing Predictive Analytics with Python.
   2. Chapter 2 : Visualization Refresher.
   3. Chapter 3 : Concepts in Predictive Analytics.
@@ -60,16 +62,16 @@
   2. Neural Networks Basics.
   3. Shallow neural networks.
   4. Deep Neural Networks.
-  5. [Course Certificate ✓](https://www.coursera.org/account/accomplishments/certificate/4CQZZ6PUYL5D).
+
 - [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) (by Andrew Ng from deeplearning.ai at Coursera) ~ 9 hours. 
   1. Practical aspects of Deep Learning.
   2. Optimization algorithms.
   3. Hyperparameter tuning, Batch Normalization and Programming Frameworks.
-  4. [Course Certificate ✓](https://www.coursera.org/account/accomplishments/certificate/AVZZ85933NSE).
+  
 - [X] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) (by Andrew Ng from deeplearning.ai at Coursera) ~ 6 hours. 
   1. ML Strategy (1).
   2. ML Strategy (2).  
-  3. [Course Certificate ✓](https://www.coursera.org/account/accomplishments/certificate/75HC62R622BH).
+  
 - [X] [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business) (by Jong-Moon Chung from Yonsei University at Coursera) ~ 8 hours. 
   1. Deep Learning Products & Services.
   2. Business with Deep Learning & Machine Learning.
@@ -77,7 +79,8 @@
   4. Basics of Deep Learning Neural Networks.
   5. Deep Learning with CNN & RNN.
   6. Deep Learning Project with TensorFlow Playground.
-  7. [Course Certificate ✓](https://www.coursera.org/account/accomplishments/verify/4NUQG7DRYDW5).
+  
+
 - [ ] [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) (by Andreas Müller and Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
   1. Classification.
   2. Regression.
@@ -260,13 +263,13 @@
   14. Reinforcement learning with direct policy search.
   15. Reinforcement learning with action-value functions.
 
-### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# R 
 - [X] [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) (by Jeff Leek, Roger D. Peng and Brian Caffo from Johns Hopkins University at Coursera). ~ 16 hours.
   1. Prediction, Errors, and Cross Validation.
   2. The `caret` Package.
   3. Predicting with trees, Random Forests, & Model Based Predictions.
   4. Regularized Regression and Combining Predictors.
-  5. [Course Certificate &#10003;](https://www.coursera.org/account/accomplishments/certificate/YTKRBA6UJB).
+ 
 - [ ] [Machine Learning Toolbox](https://www.datacamp.com/courses/machine-learning-toolbox) (by Zachary Deane-Mayer and Max Kuhn at DataCamp). ~ 4 hours.
   1. Regression models: fitting them and evaluating their performance.
   2. Classification models: fitting them and evaluating their performance.

@@ -8,30 +8,35 @@
   4. `Numpy`.
   5. Plotting with `Matplotlib`.
   6. Control Flow and `Pandas`.
-  7. [Course Certificate &#10003;](https://courses.edx.org/certificates/16eb3a446afd48a4903a489e0e760694).
+  
+
 - [X] [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) (by Filip Schouwenaars at DataCamp). ~ 4 hours.
   1. Python Basics.
   2. Python Lists.
   3. Functions and Packages.
   4. `NumPy`.
-  5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/c31b1fbf21cb4ba2cb2b2c2ea69be5b23448fffd).
+ 
+
 - [X] [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science) (by Filip Schouwenaars at DataCamp). ~ 4 hours.
   1. `Matplotlib`.
   2. Dictionaries & `Pandas`.
   3. Logic, Control Flow and Filtering.
   4. Loops.
   5. Case Study: Hacker Statistics.
-  6. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/9e110518236d7a22cafc988c6dc7d33651d0a6b9).
+
+
 - [X] [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) (by Hugo Bowne-Anderson at DataCamp). ~ 3 hours.
   1. Writing your own functions.
   2. Default arguments, variable-length arguments and scope.
   3. Lambda functions and error-handling.
-  4. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/687380fb7cdd21fc3f748ca87cd57ba3f94a930c).
+
+
 - [X] [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2) (by Hugo Bowne-Anderson at DataCamp). ~ 4 hours.
   1. Using iterators in PythonLand.
   2. List comprehensions and generators.
   3. Bringing it all together!
-  4. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/6f54b6c54f8f01018430c4d525a820f153830d86).
+
+
 - [ ] [Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science) (by Jason Myers at DataCamp). ~ 4 hours.
   1. Fundamental data types.
   2. Dictionaries - the root of Python.
@@ -50,7 +55,7 @@
   5. MapReduce.
 
 
-### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
+# R 
 - [X] [Mathematical and Statistical Sofware](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Yosu Yurramendi, Master in Computational Engineering and Intelligent Systems, University of the Basque Country). 3 ECTS ~ 75 hours.
   1. Basic concepts of R.
   2. Data structures in R.
@@ -62,13 +67,14 @@
   1. Installing the Toolbox.
   2. Conceptual Issues.
   3. Course Project Submission & Evaluation.
-  4. [Course Certificate &#10003;](https://www.coursera.org/account/accomplishments/certificate/7TPYXM4YVP).
+   
+
 - [X] [R Programming](https://www.coursera.org/learn/r-programming) (by Roger D. Peng, Jeff Leek and Brian Caffo from Johns Hopkins University at Coursera). ~ 28 hours.
   1. Overview of R, R data types and objects, reading and writing data.
   2. Control structures, functions, scoping rules, dates and times.
   3. Loop functions, debugging tools.
   4. Simulation, code profiling.
-  5. [Course Certificate &#10003;](https://www.coursera.org/account/accomplishments/certificate/DZCCX46N2B).
+  
 - [X] [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) (by Jonathan Cornelissen at DataCamp). ~ 4 hours.
   1. Intro to basics.
   2. Vectors.
@@ -76,7 +82,7 @@
   4. Factors.
   5. Data frames.
   6. Lists.
-  7. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/14b09c1f789e70fb52d0416dafd19e575b7327ec).
+  
 - [X] [Intermediate R](https://www.datacamp.com/courses/intermediate-r) (by Filip Schouwenaars at DataCamp). ~ 6 hours.
   1. Conditionals and Control Flow.
   2. Loops.
@@ -94,7 +100,8 @@
   7. Visualization.
   8. Linear Optimization.
   9. Integer Optimization.
-  10. [Course Certificate &#10003;](https://s3.amazonaws.com/verify.edx.org/downloads/51a6577e81cd4481ae32e8d670740f47/Certificate.pdf).
+  
+
 - [ ] [Data Science Capstone](https://www.coursera.org/learn/data-science-project) (by Jeff Leek, Roger D. Peng and Brian Caffo from Johns Hopkins University at Coursera). 35 hours.
   1. Overview, Understanding the Problem, and Getting the Data.
   2. Exploratory Data Analysis and Modeling.
@@ -106,7 +113,8 @@
 
 
 - [X] [Intermediate R - Practice](https://www.datacamp.com/courses/intermediate-r-practice) (by Filip Schouwenaars at DataCamp). Same sections to the previous course. ~ 4 hours.
-  1. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/1db3b69f78a7104304ead209969d77ddd12b624a).
+  
+
 - [ ] [Writing Functions in R](https://www.datacamp.com/courses/writing-functions-in-r) (by Hadley Wickham and Charlotte Wickham at DataCamp). ~ 4 hours.
   1. A quick refresher.
   2. When and how you should write a function.
@@ -125,13 +133,13 @@
   4. `R6` Inheritance.
   5. Advanced `R6` Usage.
 
-### SQL <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# SQL 
 - [X] [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science) (by Nick Carchedi at DataCamp). ~ 4 hours.
   1. Selecting columns.
   2. Filtering rows.
   3. Aggregate Functions.
   4. Sorting, grouping and joins.
-  5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/4b9ed36e4fa5b55a8165230d3137550a2cc19c32).
+
 - [ ] [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql) (by Chester Ismay at DataCamp). ~ 5 hours.
   1. Introduction to joins.
   2. Outer joins and cross joins.

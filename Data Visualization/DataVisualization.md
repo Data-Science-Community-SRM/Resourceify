@@ -1,12 +1,14 @@
 
-# 6. DATA VISUALIZATION AND REPORTING <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
-### Python <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 6. DATA VISUALIZATION AND REPORTING 
+
+# Python 
 - [X] [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python) (by Bryan Van de Ven at DataCamp). ~ 4 hours.
   1. Customizing plots.
   2. Plotting 2D arrays.
   3. Statistical plots with `seaborn`.
   4. Analyzing time series and images.
-  5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/22bc5be165b931c4c01ad7d11bc701065f3160e8).
+
+
 - [ ] [Interactive Data Visualization with `bokeh`](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh) (by Bryan Van de Ven at DataCamp). ~ 4 hours.
   1. Basic plotting with `bokeh`.
   2. Layouts, Interactions, and Annotations.
@@ -14,13 +16,14 @@
   4. Building interactive apps with `bokeh`.
   5. Putting It All Together! A Case Study.
 
-### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# R 
+
 - [X] [Reproducible Research](https://www.coursera.org/learn/reproducible-research) (by Roger D. Peng, Jeff Leek and Brian Caffo from Johns Hopkins University at Coursera). ~ 16 hours.
   1. Concepts, Ideas, & Structure.
   2. Markdown & `knitr`.
   3. Reproducible Research Checklist & Evidence-based Data Analysis.
   4. Case Studies & Commentaries.
-  5. [Course Certificate &#10003;](https://www.coursera.org/account/accomplishments/certificate/6YJ9X8BSNU).
+  
 - [ ] [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404) (by Arpan Chakraborty at Udacity). ~ 160 hours.
   1. Programming in R.
   2. Data Analysis.
@@ -66,7 +69,7 @@
   3. Raster data and color.
   4. Data import and projections.
 
-### JavaScript <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# JavaScript 
 - [ ] [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507) (by Ryan Orban, Chris Saden and Jonathan Dinu at Udacity) ~ 70 hours.
   1. Visualization Fundamentals.
   2. Building Blocks.

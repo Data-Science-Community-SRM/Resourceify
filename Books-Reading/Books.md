@@ -1,6 +1,6 @@
 
 
-# 9. BOOKS <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# 9. BOOKS
 This is a selection of books for Data Science and related disciplines from which I have good references. The books are listed in descending order of publication date.
 
 |  | **Title** | **Author** | **Publisher** | **Release Date** | **Code** |
@@ -69,5 +69,4 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 + [thegradient](https://thegradient.pub/)
 + [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
 + [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/)
-+ [https://github.com/ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 

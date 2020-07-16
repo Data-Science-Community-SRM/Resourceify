@@ -5,59 +5,60 @@
   1. Introduction and flat files.
   2. Importing data from other file types.
   3. Working with relational databases in Python.
-  4. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/48c3040e8470296e09279228c18311d1ea2e8d17).
+
 - [X] [Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2) (by Hugo Bowne-Anderson at DataCamp). ~ 2 hours.
   1. Importing data from the Internet.
   2. Interacting with APIs to import data from the web.
   3. Diving deep into the `Twitter API`.
-  4. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/cffa7b4721ab083a04c065f7d97acfc35a0a896c).
+
 - [X] [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python) (by Daniel Chen at DataCamp). ~ 4 hours.
   1. Exploring your data.
   2. Tidying data for analysis.
   3. Combining data for analysis.
   4. Cleaning data for analysis.
   5. Case study.
-  6. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/f26c6b8c202c6c0052f3ff9eafb83ce6039e18ad).
+
 - [X] [pandas Foundations](https://www.datacamp.com/courses/pandas-foundations) (by Dhavide Aruliah at DataCamp). ~ 4 hours.
   1. Data ingestion & inspection.
   2. Exploratory data analysis.
   3. Time series in `pandas`.
   4. Case Study - Sunlight in Austin.
-  5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/29eb7549baebd18d565ad1a02c0eabf2622856d8).
+
 - [X] [Manipulating DataFrames with `pandas`](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas) (by Dhavide Aruliah at DataCamp). ~ 4 hours.
   1. Extracting and transforming data.
   2. Advanced indexing.
   3. Rearranging and reshaping data.
   4. Grouping data.
   5. Bringing it all together.
-  6. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/443779f60767548d53cd77dbe64d48075eea7596).
+
 - [X] [Merging DataFrames with `pandas`](https://www.datacamp.com/courses/merging-dataframes-with-pandas) (by Dhavide Aruliah at DataCamp). ~ 4 hours.
   1. Preparing data.
   2. Concatenating data.
   3. Merging data.
   4. Case Study - Summer Olympics.
-  5. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/7d2d7adb264f58a2f9f9b51f4761029aee2dd101).
+
 - [X] [Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python) (by Jason Myers at DataCamp). ~ 4 hours.
   1. Basics of Relational Databases.
   2. Applying Filtering, Ordering and Grouping to Queries.
   3. Advanced `SQLAlchemy` Queries.
   4. Creating and Manipulating your own Databases.
   5. Putting it all together.
-  6. [Course Certificate &#10003;](https://www.datacamp.com/statement-of-accomplishment/course/1a539e59efa119c9593d16f0d93810832ba05035).
-- [X] [Become a Python Data Analyst](https://www.safaribooksonline.com/library/view/become-a-python/9781787284302/) (by Alvaro Fuentes at Safari). ~ 4 hours 30 minutes. _[My github repo](https://github.com/estraviz/Become-a-Python-Data-Analyst)._
+
+- [X] [Become a Python Data Analyst](https://www.safaribooksonline.com/library/view/become-a-python/9781787284302/) (by Alvaro Fuentes at Safari). ~ 4 hours 30 minutes. 
   1. The Anaconda Distribution and the Jupyter Notebook.
   2. Vectorizing Operations with NumPy.
   3. Pandas: Everyone’s Favorite Data Analysis Library.
   4. Visualization and Exploratory Data Analysis.
   5. Statistical Computing with Python.
   6. Introduction to Predictive Analytics Models.
+
 - [ ] [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) (by Caroline Buckey at Udacity). ~ 60 hours.
   1. Data Analysis Process.
   2. NumPy and Pandas for 1D Data.
   3. NumPy and Pandas for 2D Data.
   4. Investigate a Dataset.
 
-### R <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub> 
+# R 
 - [X] [Exploratory Data Analysis](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Iñaki Inza, Itziar Irigoien, Yosu Yurramendi, Javier Muguerza, Ibai Gurrutxaga, José
 Ignacio Martín, Olatz Arbelaitz, Txus Perez. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 6 ECTS ~ 150 hours.
   1. General introduction to the problematic and basic notions.
@@ -66,18 +67,22 @@ Ignacio Martín, Olatz Arbelaitz, Txus Perez. *Master in Computational Engineeri
   4. Supervised Classification Methods.
   5. Methods of reducing dimensionality (factorial methods).
   6. Temporal series.
+   
+
 - [X] [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) (by Jeff Leek, Roger D. Peng and Brian Caffo from Johns Hopkins University at Coursera). ~ 16 hours.
   1. Finding data and reading different file types.
   2. Introduction to the most common data storage systems and the appropriate tools to extract data from web or from databases like `MySQL`.
   3. Organizing, merging and managing data.
   4. Text and date manipulation in R.
-  5. [Course Certificate &#10003;](https://www.coursera.org/account/accomplishments/certificate/RLWW377JHT).
+  
+
 - [X] [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) (by Roger D. Peng, Jeff Leek and Brian Caffo from Johns Hopkins University at Coursera). ~ 16 hours.
   1. The basics of analytic graphics and the base plotting system in R.
   2. More advanced graphing systems available in R: the `Lattice` system and the `ggplot2` system.
   3. Some statistical methods for exploratory analysis. These methods include clustering and dimension reduction techniques.
   4. Two case studies in exploratory data analysis.
-  5. [Course Certificate &#10003;](https://www.coursera.org/account/accomplishments/certificate/AJ2PTYYKMS).
+  
+
 - [ ] [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) (by at Udacity). ~ 80 hours.
   1. What is EDA?
   2. R Basics.
@@ -134,7 +139,8 @@ Ignacio Martín, Olatz Arbelaitz, Txus Perez. *Master in Computational Engineeri
   2. `Data.table` yeoman.
   3. `Data.table` expert.
 
-### Weka <sub><sup><sub>([back to top &uarr;](#table-of-contents))</sub></sup></sub>
+# Weka 
+
 - [X] [Data Mining and Big Data Analysis](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Itziar Irigoien, Javier Muguerza, Ibai Gurrutxaga, José Ignacio Martín, Olatz Arbelaitz,
 Txus Perez. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
   1. Introduction to data mining.
