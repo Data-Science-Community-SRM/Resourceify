@@ -1,7 +1,7 @@
 # RESOURCEIFY   
 (Under-Development)
 
-A curated list of everything you need in the field of Data Science, Machine Learning and Artificial Intelligence including but not limited to Online Courses, Documentations, Blogs, Podcasts, Cheatsheets, research papers, latest developments etc..
+A curated list of everything you need in the field of Data Science, Machine Learning and Artificial Intelligence including but not limited to Online Courses, Documentations, Blogs, Podcasts, Cheatsheets, research papers, latest developments etc.. arranged in sub-domains and further by the language or framework being used. 
 
 ---
 
@@ -54,12 +54,24 @@ A curated list of everything you need in the field of Data Science, Machine Lear
 9. [Books and Reading Material](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Books-Reading/Books.md)
 
 
-10. [Cheatsheets](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Cheatsheets/README.md)    
+10. [Cheatsheets](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Cheatsheets)    
     - The best Collection of all the Cheatsheets and workflow you will ever need
 
 
 11. [Miscelleanous Resources](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/tree/master/Miscellaneous).
+    - [Data Structures]()
     
 
 ---  
 
+
+<h2 align="center"> Maintained by </h2>
+
+
+
+<div align="center" >
+
+![Hritik Bhandari](https://github.com/hritikbhandari.png?size=100) <br>
+[Hritik Bhandari](https://github.com/hritikbhandari) &nbsp;
+
+</div>
