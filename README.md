@@ -23,22 +23,23 @@ A curated list of everything you need in the field of Data Science, Machine Lear
     - [Python](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Analysis/DataAnalysis.md).
     - [R](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Analysis/DataAnalysis.md).
 
+4. [Data Visualization and Reporting](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Visualization/DataVisualization.md).
+    - [Python](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Visualization/DataVisualization.md).
+    - [R](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Visualization/DataVisualization.md).
+    - [JavaScript](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Visualization/DataVisualization.md).
 
-4. [Machine Learning](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Machine%20Learning/ML.md).
+
+5. [Machine Learning](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Machine%20Learning/ML.md).
     - [Octave/Matlab](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Machine%20Learning/ML.md).
     - [Python](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Machine%20Learning/ML.md).
     - [R](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Machine%20Learning/ML.md).
 
 
-5. [NLP and Text Mining](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/NLP%20-%20Text%20Mining/NLP.md).
+6. [NLP and Text Mining](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/NLP%20-%20Text%20Mining/NLP.md).
     - [Python](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/NLP%20-%20Text%20Mining/NLP.md).
     - [R](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/NLP%20-%20Text%20Mining/NLP.md).
 
 
-6. [Data Visualization and Reporting](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Visualization/DataVisualization.md).
-    - [Python](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Visualization/DataVisualization.md).
-    - [R](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Visualization/DataVisualization.md).
-    - [JavaScript](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Data%20Visualization/DataVisualization.md).
 
 
 7. [Probability and Statistics](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Statistics-Probability/Resources.md).
@@ -51,16 +52,36 @@ A curated list of everything you need in the field of Data Science, Machine Lear
     - [Spark](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Big%20Data/BigData.md).
 
 
-9. [Books and Reading Material](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Books-Reading/Books.md)
+9. [Deploying Projects](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Deployment/Deployment.md)
 
-
-10. [Cheatsheets](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Cheatsheets)    
-    - The best Collection of all the Cheatsheets and workflow you will ever need
-
-
-11. [Miscelleanous Resources](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/tree/master/Miscellaneous).
-    - [Data Structures]()
+10. [Research ](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Research/Research.md)
     
+
+11. [Books and Reading Material](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Books-Reading/Books.md)
+
+
+12. [Cheatsheets](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Cheatsheets)    
+    - The best Collection of all the Cheatsheets and workflow you will get on the internet.
+
+
+13. [Miscelleanous Resources](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/tree/master/Miscellaneous).
+    - [Data Structures](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Data%20Structures/DataStructures.md)
+    - [Git & GitHub](https://github.com/Data-Science-Community-SRM/Resourceify/tree/master/Git)
+    - [Jupyter](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/tree/master/Miscellaneous/Jupyter.md).
+    - Languages
+      
+      - [Python](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Languages/Python.md)
+     
+      - [Javascript](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Languages/Javascript.md)
+    
+14. [Podcasts & Interesting Developments](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Podcasts-Interesting-Developments/podcasts.md)
+
+<div align="center">
+
+[RoadMap ](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/RoadMap/RoadMap.md)
+
+</dev>
+
 
 ---  
 
@@ -71,7 +92,7 @@ A curated list of everything you need in the field of Data Science, Machine Lear
 
 <div align="center" >
 
-![Hritik Bhandari](https://github.com/hritikbhandari.png?size=100) <br>
-[Hritik Bhandari](https://github.com/hritikbhandari) &nbsp;
+<img src="https://github.com/hritikbhandari.png?size=100"> <br>
+[Hritik Bhandari](https://github.com/hritikbhandari)&nbsp;
 
 </div>
