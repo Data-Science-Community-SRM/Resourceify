@@ -1,10 +1,6 @@
 # RESOURCEIFY   
 (Under-Development)
 
-A curated list of everything you need in the field of Data Science, Machine Learning and Artificial Intelligence including but not limited to Online Courses, Documentations, Blogs, Podcasts, Cheatsheets, research papers, latest developments etc.. arranged in sub-domains and further by the language or framework being used. 
-
----
-
 # TABLE OF CONTENTS
 
 
