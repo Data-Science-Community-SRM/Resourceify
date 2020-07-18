@@ -76,7 +76,7 @@
 
 [RoadMap ](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/RoadMap/RoadMap.md)
 
-</dev>
+</div>
 
 
 ---  
@@ -89,6 +89,6 @@
 <div align="center" >
 
 <img src="https://github.com/hritikbhandari.png?size=100"> <br>
-[Hritik Bhandari](https://github.com/hritikbhandari)&nbsp;
+<a href="https://github.com/hritikbhandari">Hritik Bhandari</a>
 
 </div>
