@@ -6,6 +6,7 @@
   5. Collaborating.
 
 ## Useful Links
-- [GitHub Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+- [GitHub Git Cheat Sheet](http://help.hithub.com/git-cheat-sheets/)
 - [Why do we use --rebase when pulling on master?](http://gitready.com/advanced/2009/02/11/pull-with-rebase.html)
 - [Remotes](http://progit.org/book/ch3-5.html)
+- [Git Cheat Sheet by GitHub](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
