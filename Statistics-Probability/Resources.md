@@ -1,6 +1,18 @@
 
 # 7. PROBABILITY AND STATISTICS <sub><sup><sub>([back &uarr;](#table-of-contents))</sub></sup></sub>
 # Python 
+- [X] [Statistics With Python Specialization](https://www.coursera.org/specializations/statistics-with-python) (by Coursera) ~ 48 hours.
+  1. Introduction to Data
+  2. Univariate Data
+  3. Multivariate Data
+  4. Populations & Samples
+  5. Overview & Inference Procedures
+  6. Confidence Intervals
+  7. Hypothesis Testing
+  8. Considerations For Statistical Modelling
+  9. Fitting Models To Independent Data
+  10. Fitting Models To Dependent Data
+  
 - [X] [Probabilistic Modeling and Bayesian Networks](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Borja Calvo and Aritz Pérez. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
   1. Introduction to probabilistic modeling. 
   2. Modeling of joint probabilities through Bayesian networks.
