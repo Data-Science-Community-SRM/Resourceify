@@ -82,7 +82,7 @@
 ---  
 
 
-<h2 align="center"> Maintained by </h2>
+<!-- <h2 align="center"> Maintained by </h2>
 
 
 
@@ -91,4 +91,4 @@
 <img src="https://github.com/hritikbhandari.png?size=100"> <br>
 <a href="https://github.com/hritikbhandari">Hritik Bhandari</a>
 
-</div>
+</div> -->
