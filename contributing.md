@@ -16,7 +16,7 @@ The project's contribution instructions are as follows.
 - Follow the writing style of the project, including indentation.
 - Write as needed.
 - Add or change the documentation as needed.
-- Squash your commits into a single commit with git's [interactive rebase](https://help.github.com/articles/interactive-rebase). Create a new branch if necessary.
+- Squash your commits into a single commit with git's [interactive rebase](https://gist.github.com/todgru/7cff3962e76e1360cc2c). Create a new branch if necessary.
 - Push your branch to your fork on Github, the remote `origin`.
 - From your fork open a pull request in the correct branch. Target the project's `develop` branch if there is one, else go for `master`!
 - …
