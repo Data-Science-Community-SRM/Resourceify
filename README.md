@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[RoadMap ](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/RoadMap/RoadMap.md)
+<a href="https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/RoadMap/RoadMap.md">RoadMap</a>
 
 </div>
 
