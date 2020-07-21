@@ -75,6 +75,8 @@
 <div align="center">
 
 <a href="https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/RoadMap/RoadMap.md">RoadMap</a>
+<br> <br>
+<a href="https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/contributing.md">Instructions for Contribution</a>
 
 </div>
 
