@@ -27,3 +27,53 @@
   2. Tools of the Trade: Advanced `dplyr` Usage.
   3. Going Native: Use The Native Interface to Manipulate Spark DataFrames.
   4. Case Study: Learning to be a Machine: Running Machine Learning Models on Spark.
+
+- [X] [Introduction to Pyspark](https://www.datacamp.com/courses/introduction-to-pyspark) (by Lore Dirick at Datacamp). ~ 4 hours.
+  1. Getting to know PySpark.
+  2. Manipulating data.
+  3. Getting started with machine learning pipelines. 
+  4. Model tuning and selection.
+
+- [X] [Big Data Fundamentals with PySpark](https://www.datacamp.com/courses/big-data-fundamentals-with-pyspark) (by Upendra Kumar Devisetty at Datacamp). ~ 4 hours.
+  1. Introduction to Big Data analysis with Spark.
+  2. Programming in PySpark RDD’s. 
+  3. PySpark SQL & DataFrames.
+  4. Machine Learning with PySpark MLlib.
+
+- [X] [Cleaning Data with PySpark](https://www.datacamp.com/courses/cleaning-data-with-pyspark) (Mike Metzger at Datacamp). ~ 4 hours.
+  1. DataFrame details.
+  2. Manipulating DataFrames in the real world.
+  3. Improving Performance.
+  4. Complex processing and data pipelines. 
+
+- [X] [Feature Engineering with PySpark](https://www.datacamp.com/courses/feature-engineering-with-pyspark) (by John Hogue at Datacamp). ~ 4 hours.
+  1. Exploratory Data Analysis.
+  2. Wrangling with Spark Functions.
+  3. Feature Engineering.
+  4. Building a Model. 
+
+- [X] [Machine Learning with PySpark](https://www.datacamp.com/courses/machine-learning-with-pyspark) (by Andrew Collier at Datacamp). ~ 4 hours.
+  1. Introduction.
+  2. Classification.
+  3. Regression.
+  4. Ensembles & Pipelines.
+
+- [X] [Building Recommendation Engines with PySpark](https://www.datacamp.com/courses/recommendation-engines-in-pyspark) (by James Long at Datacamp). ~ 4 hours
+  1. Recommendations Are Everywhere.
+  2. How does ALS work?.
+  3. Recommending Movies.
+  4. What if you don't have customer ratings?.
+
+### Kafka
+- [X] [Apache Kafka for absolute beginners](https://www.udemy.com/course/apache-kafka-for-beginners) (by Prashant Kumar Pandey at udemy). ~ 5 hours
+  1. Kafka Ecosystem - The Big Picture.
+  2. Apache Kafka - Getting Started.
+  3. Apache Kafka - Storage Architecture.
+  4. Apache Kafka - Cluster Architecture.
+  5. Kafka Producer Internals.
+  6. Advanced Kafka Producers.
+  7. Types and Serialization.
+  8. Micro Project - Summing Up the Producer.
+  9. Kafka Consumers.
+  10. Where to go Next.
+
