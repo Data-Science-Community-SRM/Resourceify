@@ -46,6 +46,7 @@
 8. [Big Data](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Big%20Data/BigData.md).
     - [General](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Big%20Data/BigData.md).
     - [Spark](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Big%20Data/BigData.md).
+    - [Kafka](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Big%20Data/BigData.md).
 
 
 9. [Deploying Projects](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Deployment/Deployment.md)
