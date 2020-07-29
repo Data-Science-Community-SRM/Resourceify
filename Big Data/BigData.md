@@ -76,4 +76,11 @@
   8. Micro Project - Summing Up the Producer.
   9. Kafka Consumers.
   10. Where to go Next.
+  
+  # Contributing
+
+Contributions are very welcome, please share back with the wider community (and get credited for it)!
+
+Please have a look at the [CONTRIBUTING](contributing.md) guidelines, also have a read about our [licensing](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/LICENSE) policy.
+
 
