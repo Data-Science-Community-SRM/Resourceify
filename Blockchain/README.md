@@ -37,7 +37,7 @@ Blockchain is a system in which a record of transactions made in bitcoin or anot
 
 Contributions are very welcome, please share back with the wider community (and get credited for it)!
 
-Please have a look at the [CONTRIBUTING](contributing.md) guidelines, also have a read about our [licensing](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/LICENSE) policy.
+Please have a look at the [CONTRIBUTING]([contributing.md](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/contributing.md)) guidelines, also have a read about our [licensing](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/LICENSE) policy.
 
 ---
 
