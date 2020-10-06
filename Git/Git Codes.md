@@ -116,6 +116,11 @@ git checkout master
 git diff master ajax_fallback
 ```
 
+git fetch is a primary command used to download contents from a remote repository. git fetch is used in conjunction with git remote, git branch, git checkout, and git reset to update a local repository to the state of a remote. 
+```
+git fetch
+```
+
 ## Local Branches
 Generally all of our branches are remote, but if you want to create a local one,
 a few things are different -- namely to use `git rebase master` when you 
