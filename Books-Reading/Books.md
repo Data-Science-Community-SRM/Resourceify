@@ -70,3 +70,13 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 + [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
 + [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/)
 
+# Contributing
+
+Contributions are very welcome, please share back with the wider community (and get credited for it)!
+
+Please have a look at the [CONTRIBUTING](contributing.md) guidelines, also have a read about our [licensing](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/LICENSE) policy.
+
+---
+
+Back to [main page (table of contents)](https://data-science-community-srm.github.io/Resourceify/)
+
