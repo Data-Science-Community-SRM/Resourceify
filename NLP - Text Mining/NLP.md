@@ -7,6 +7,12 @@
   3. Named-entity recognition.
   4. Building a "fake news" classifier.
 
+- [ ] [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) (by Coursera). ~ 96 hours.
+  1. Natural Language Processing with Classification and Vector Spaces. (Course 1)
+  2. Natural Language Processing with Probabilistic Models. (Course 2)
+  3. Natural Language Processing with Sequence Models. (Course 3)
+  4. Natural Language Processing with Attention Models. (Course 4)
+
 # R 
 - [X] [Introduction to Text Analysis in R](https://www.datacamp.com/courses/introduction-to-text-analysis-in-r) (by Marc Dotson at DataCamp). ~ 4 hours.
   1. Wrangling Text.
