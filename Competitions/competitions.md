@@ -44,6 +44,9 @@
 - [Hacker Rank](https://lnkd.in/gEufBUu)
 - [Codeacademy](https://lnkd.in/gGQ7cuv)
 - [LeetCode](https://leetcode.com/)
+- [HackerEarth](https://www.hackerearth.com/)
+- [CodeForces](https://codeforces.com/)
+- [Coding Ninjas](https://www.codingninjas.com/)
 
 ## Resources
 
