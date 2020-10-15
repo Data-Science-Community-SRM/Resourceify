@@ -6,6 +6,8 @@
 + [The AI Podcast - Nvidia](https://soundcloud.com/theaipodcast)
 + [Artificial Intelligence with Lex Fridman, MIT AI](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL) 
 + [Linear Digressions](http://lineardigressions.com/)
++ [Podcast SuperDataScience](https://www.superdatascience.com/podcast)
++ [Towards Data Science Podcast](https://towardsdatascience.com/podcast/home)
 
 
 # Contributing
