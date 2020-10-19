@@ -46,21 +46,27 @@
 8. [Big Data](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Big%20Data/BigData.md).
     - [General](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Big%20Data/BigData.md).
     - [Spark](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Big%20Data/BigData.md).
+    - [Kafka](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Big%20Data/BigData.md).
 
 
 9. [Deploying Projects](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Deployment/Deployment.md)
 
 10. [Research ](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Research/Research.md)
+
+11. [Competitions](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Competitions/competitions.md)
+
+12. [Blockchains](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Blockchain)    
+    - Everything about Blockchains ( Ethereum, Hyperledger, Solidity, White Papers etc.)
     
 
-11. [Books and Reading Material](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Books-Reading/Books.md)
+13. [Books and Reading Material](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Books-Reading/Books.md)
 
 
-12. [Cheatsheets](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Cheatsheets)    
+14. [Cheatsheets](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Cheatsheets)    
     - The best Collection of all the Cheatsheets and workflow you will get on the internet.
 
 
-13. [Miscelleanous Resources](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/tree/master/Miscellaneous).
+15. [Miscelleanous Resources](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/tree/master/Miscellaneous).
     - [Data Structures](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Data%20Structures/DataStructures.md)
     - [Git & GitHub](https://github.com/Data-Science-Community-SRM/Resourceify/tree/master/Git)
     - [Jupyter](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/tree/master/Miscellaneous/Jupyter.md).
@@ -70,11 +76,13 @@
      
       - [Javascript](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Languages/Javascript.md)
     
-14. [Podcasts & Interesting Developments](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Podcasts-Interesting-Developments/podcasts.md)
+16. [Podcasts & Interesting Developments](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Podcasts-Interesting-Developments/podcasts.md)
 
 <div align="center">
 
-[RoadMap ](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/RoadMap/RoadMap.md)
+<a href="https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/RoadMap/RoadMap.md">RoadMap</a>
+<br> <br>
+<a href="https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/contributing.md">Instructions for Contribution</a>
 
 </div>
 

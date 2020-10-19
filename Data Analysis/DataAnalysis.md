@@ -149,3 +149,14 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   4. Introduction of variable selection. Selection of the relevant variables for the analysis. Types of techniques.
   5. Estimation of the percentage of good classifier and statistical tests for the comparison of classifiers: evaluation and credibility of the learned models.
   6. Discussion and study of concrete case studies: Bioinformatics.
+  
+  
+  # Contributing
+
+Contributions are very welcome, please share back with the wider community (and get credited for it)!
+
+Please have a look at the [CONTRIBUTING](contributing.md) guidelines, also have a read about our [licensing](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/LICENSE) policy.
+
+---
+
+Back to [main page (table of contents)](https://data-science-community-srm.github.io/Resourceify/)

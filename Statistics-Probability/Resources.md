@@ -1,6 +1,7 @@
 
 # 7. PROBABILITY AND STATISTICS <sub><sup><sub>([back &uarr;](#table-of-contents))</sub></sup></sub>
 # Python 
+  
 - [X] [Probabilistic Modeling and Bayesian Networks](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Borja Calvo and Aritz Pérez. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
   1. Introduction to probabilistic modeling. 
   2. Modeling of joint probabilities through Bayesian networks.
@@ -39,6 +40,18 @@
   2. Graph projections.
   3. Comparing graphs & time-dynamic graphs.
   4. Tying it up!.
+  
+- [ ] [Statistics With Python Specialization](https://www.coursera.org/specializations/statistics-with-python) (by Coursera) ~ 48 hours.
+  1. Introduction to Data
+  2. Univariate Data
+  3. Multivariate Data
+  4. Populations & Samples
+  5. Overview & Inference Procedures
+  6. Confidence Intervals
+  7. Hypothesis Testing
+  8. Considerations For Statistical Modelling
+  9. Fitting Models To Independent Data
+  10. Fitting Models To Dependent Data
 
 # R 
 - [X] [Statistical Inference](https://www.coursera.org/learn/statistical-inference) (by Brian Caffo, Roger D. Peng and Jeff Leek from Johns Hopkins University at Coursera). ~ 28 hours.
@@ -111,4 +124,15 @@
   2. Shakespeare gets Sentimental.
   3. Analyzing TV News.
   4. Singing a Happy Song (or Sad?!).
+  
+  
+  # Contributing
+
+Contributions are very welcome, please share back with the wider community (and get credited for it)!
+
+Please have a look at the [CONTRIBUTING](contributing.md) guidelines, also have a read about our [licensing](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/LICENSE) policy.
+
+---
+
+Back to [main page (table of contents)](https://data-science-community-srm.github.io/Resourceify/)
 
