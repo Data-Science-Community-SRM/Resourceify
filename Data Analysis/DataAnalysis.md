@@ -57,6 +57,12 @@
   2. NumPy and Pandas for 1D Data.
   3. NumPy and Pandas for 2D Data.
   4. Investigate a Dataset.
+  
+- [ ] [Data Analysis With Python](https://www.coursera.org/learn/data-analysis-with-python) (by Coursera). ~ 24 hours.
+  1. Importing Datasets.
+  2. Data Wrangling.
+  3. Exploratory Data Analysis.
+  4. Model Development.
 
 # R 
 - [X] [Exploratory Data Analysis](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Iñaki Inza, Itziar Irigoien, Yosu Yurramendi, Javier Muguerza, Ibai Gurrutxaga, José
