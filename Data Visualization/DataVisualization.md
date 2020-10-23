@@ -78,6 +78,32 @@
   5. Narratives.
   6. Animation and Interaction.
   
+# Tableau
+- [ ] [Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization) (by Desiree' Abbott, Govind Acharya, Hunter Whitney and Suk S. Brar at UC Davis - Coursera) ~ 6 months.
+1. Fundamentals of Visulization with Tableau. (Course 1)
+2. Essentials Design Principles for Tableau. (Course 2)
+3. Visual Analytics with Tableau. (Course 3)
+4. Creating Dashboards and Storytelling with Tableau. (Course 4)
+5. Data Visualization with Tableau Project. (Course 5)
+
+- [ ] [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau) (by Daniel Egger and Jana Schaich Borg at Duke University - Coursera) ~ 25 hours.
+1. Asking the Right Questions.
+2. Data Visualization with Tableau.
+3. Dynamic Data Manipulation and Presentation in Tableau.
+4. Your Communication Toolbox: Visualizations, Logic and Stories.
+
+- [ ] [Introduction to Tableau](https://learn.datacamp.com/courses/introduction-to-tableau) (by Sara Billen, Hadrien Lacrolx, Lis Sulmont, David Venturl at Datacamp) ~ 4 hours.
+1. Getting started with Tableau.
+2. Building and Customizing Visualizations.
+3. Digging Deeper.
+4. Presenting Your Data.
+
+- [ ] [Tableau 2020 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/course/tableau10/) (by Kirill Eremenko and SuperDataScience Team at Udemy) ~8.5 hours.
+1. Connect Tableau to a Variety of Datasets.
+2. Analyze, Blend, Join, and Calculate Data.
+3. Visualize Data in the Form of Various Charts, Plots, and Maps.
+
+  
   # Contributing
 
 Contributions are very welcome, please share back with the wider community (and get credited for it)!
