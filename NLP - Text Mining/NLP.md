@@ -12,6 +12,21 @@
   2. Natural Language Processing with Probabilistic Models. (Course 2)
   3. Natural Language Processing with Sequence Models. (Course 3)
   4. Natural Language Processing with Attention Models. (Course 4)
+  
+- [ ] [Natural Language Processing in Tensorflow](https://www.coursera.org/learn/natural-language-processing-tensorflow) (by Coursera). ~ 14 hours.
+  1. Sentiment in text.
+  2. Word Embeddings.
+  3. Sequence Models.
+  4. Sequence models and literature.
+  
+- [ ] [Deep Learning: Advanced NLP and RNNs](https://www.udemy.com/course/deep-learning-advanced-nlp/?LSNPUBID=KYddkQJZ4c4&ranEAID=KYddkQJZ4c4&ranMID=39197&ranSiteID=KYddkQJZ4c4-D4BHho1EGo_kijdm4unPVg&utm_medium=udemyads&utm_source=aff-campaign) (by Udemy). ~ 8 hours.
+  1. Text classification system.
+  2. Sequence-to-sequence model.
+  3. Memory Network.
+  4. Neural Machine Translation system.
+  5. Attention model.
+  
+- [ ] [Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) (by Stanford University). ~25 hours.
 
 # R 
 - [X] [Introduction to Text Analysis in R](https://www.datacamp.com/courses/introduction-to-text-analysis-in-r) (by Marc Dotson at DataCamp). ~ 4 hours.
