@@ -103,7 +103,23 @@
 2. Analyze, Blend, Join, and Calculate Data.
 3. Visualize Data in the Form of Various Charts, Plots, and Maps.
 
-  
+# Microsoft Power BI
+- [ ] [Microsoft Power BI - Up & Running With Power BI Desktop](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/) (by Maven Analytics, Chris Dutton, Aaron Parry - Udemy) ~ 10.5 hours.
+1. Build professional-quality business intelligence reports.
+2. Design and implement the B.I. tools.
+3. Understand the business intelligence workflow from end-to-end.
+4. Blend and transform raw data into beautiful interactive dashboards.
+
+- [ ] [Power BI A-Z: Hands-On Power BI Training For Data Science!](https://www.udemy.com/course/mspowerbi/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-epikTPTQnab1_2MMppd5bA&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads) (by Kirill Eremenko and SuperDataScience Team - Udemy) ~ 4.5 hours.
+1. Connect Microsoft Power BI to data sources.
+2. Create Treemaps.
+3. Create Waterfall Diagrams.
+4. Create Barcharts.
+
+- [ ] [Basics of Power BI](https://www.edx.org/course/basics-of-power-bi?source=aw&awc=6798_1603996701_e49a920f851288f4d2f1a74ae661498c&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=631878_javarevisited) (by James Hallam - edX) ~ 2 weeks.
+
+
+
   # Contributing
 
 Contributions are very welcome, please share back with the wider community (and get credited for it)!
