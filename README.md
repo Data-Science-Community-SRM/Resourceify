@@ -1,5 +1,5 @@
 # RESOURCEIFY
-
+### This repository is accepting contributions for Hacktoberfest 2023.
 
 ## TABLE OF CONTENTS
 
