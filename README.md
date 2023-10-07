@@ -71,6 +71,9 @@
 ## 16. Podcasts & Interesting Developments
 - [Podcasts & Interesting Developments](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/Podcasts-Interesting-Developments/podcasts.md)
 
+## 17. Research Papers
+- [Research Papers](<Research Papers/ResearchPapers.md>)
+
 [RoadMap](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/RoadMap/RoadMap.md)
 
 [Instructions for Contribution](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/contributing.md)
