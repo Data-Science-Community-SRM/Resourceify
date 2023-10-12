@@ -3,7 +3,33 @@
 
 ## TABLE OF CONTENTS
 
-
+'''
+# Big Data
+# Blockchain
+# Books Reading
+# Cheetsheets
+# Competitions
+# Data Analysis
+Data Structures
+# Data Visualization
+Deep Learning
+# Deployment
+Git
+# Intro to Data Science
+Languages
+# Machine Learning
+# Miscellaneous
+# NLP - Text mining
+Notes
+OpenCV Computer Vision
+# Podcasts Interesting Developments
+Reinforcement Learning
+# Research Papers
+# Research
+Roadmap
+# Statistics and Probability
+Web Dev
+'''
 
 ## 1. Introductory Courses in Data Science
 - [Python](https://github.com/Data-Science-Community-SRM/RoadMap-Resources-for-Data-Science-and-ML/blob/master/Intoduction%20to%20Data%20Science/Intro.md)
