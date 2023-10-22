@@ -47,6 +47,8 @@
 - [HackerEarth](https://www.hackerearth.com/)
 - [CodeForces](https://codeforces.com/)
 - [Coding Ninjas](https://www.codingninjas.com/)
+- [CodeChef](https://www.codechef.com/)
+- [TopCoder](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
 
 ## Resources
 
