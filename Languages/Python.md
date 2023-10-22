@@ -64,6 +64,14 @@
   4. Jeopardy database.
   5. Plotting with Matplotlib.
   6. Scraping the NASA Astronomy Picture of the Day Website.
+
+- [X] [Data Structures and ALgorithms in Python](https://jovian.com/learn/data-structures-and-algorithms-in-python)( By Aakash N S at Jovian). ~ 12 hours
+  1. Binary Search, Linked Lists, Complexity
+  2. Binary Search Trees, Traversals and Recursion
+  3. Sorting Algorithms and Divide and Conquer
+  4. Recursion and Dynamic Programming
+  5. Graph Algorithms
+  6. Interview Questions, Tips and Advice
   
   
   # Contributing
