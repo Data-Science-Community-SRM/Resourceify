@@ -4,6 +4,8 @@
     + https://www.python-course.eu/
     + https://www.datacamp.com/ 
     + https://www.pythonprogramming.net/
+    + https://www.freecodecamp.org/
+    + https://www.edx.org/
 + Python
 + NumPy
 + Pandas
