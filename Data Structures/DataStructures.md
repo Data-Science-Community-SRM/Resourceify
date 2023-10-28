@@ -5,6 +5,8 @@
 - [Introduction to Computational Thinking and Data Science (MIT 6.0002)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) 
 - [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills)
 - [Object Oriented Programming in Java Specialization](https://www.coursera.org/specializations/object-oriented-programming)
+- [Data Structures and Algorithms with Python(Hands-On Learning)](https://www.codecademy.com/learn/learn-data-structures-and-algorithms-with-python)
+- [Introduction to Data Structures and Algorithms in 6 hours(freeCodeCamp)](https://www.youtube.com/watch?v=8hly31xKli0)
 
 **Recommendation:** Learn any one programming language really well, master Data Structure and Algorithm, and compete on platforms like Codechef, Codeforces, Hackerrank, HackerEarth, etc.
 
