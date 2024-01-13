@@ -118,6 +118,11 @@
   2. Shakespeare gets Sentimental.
   3. Analyzing TV News.
   4. Singing a Happy Song (or Sad?!).
+# Basics
+- [ ] [Statistics Course from IIT Madras](https://youtube.com/playlist?list=PLZ2ps__7DhBYrMs3zybOqr1DzMFCX49xG&si=8DWcC80syE-iFY-c)
+  1. Basics of Statistics
+  2. Important Concepts of Probability
+  3. Important formulas of Statistics and Probability 
   
   
   # Contributing
