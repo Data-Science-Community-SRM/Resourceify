@@ -1,12 +1,6 @@
 
 # 7. PROBABILITY AND STATISTICS <sub><sup><sub>([back &uarr;](#table-of-contents))</sub></sup></sub>
 # Python 
-  
-- [X] [Probabilistic Modeling and Bayesian Networks](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Borja Calvo and Aritz Pérez. *Master in Computational Engineering and Intelligent Systems*, University of the Basque Country). 3 ECTS ~ 75 hours.
-  1. Introduction to probabilistic modeling. 
-  2. Modeling of joint probabilities through Bayesian networks.
-  3. Automatic learning of Bayesian networks.
-  4. Applications of Bayesian networks: supervised classification.
 - [X] [Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1) (by Justin Bois at DataCamp). ~ 3 hours.
   1. Graphical exploratory data analysis.
   2. Quantitative exploratory data analysis.
@@ -124,6 +118,11 @@
   2. Shakespeare gets Sentimental.
   3. Analyzing TV News.
   4. Singing a Happy Song (or Sad?!).
+# Basics
+- [ ] [Statistics Course from IIT Madras](https://youtube.com/playlist?list=PLZ2ps__7DhBYrMs3zybOqr1DzMFCX49xG&si=8DWcC80syE-iFY-c)
+  1. Basics of Statistics
+  2. Important Concepts of Probability
+  3. Important formulas of Statistics and Probability 
   
   
   # Contributing
