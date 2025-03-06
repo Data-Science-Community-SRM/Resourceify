@@ -1,5 +1,5 @@
 # RESOURCEIFY
-### This repository is accepting contributions for Hacktoberfest 2023.
+**Stay Updated with AI Advancements:** For the latest breakthroughs and developments in Artificial Intelligence, including research papers, news, and tutorials, visit [MarkTechPost](https://www.marktechpost.com/).
 
 ## TABLE OF CONTENTS
 
