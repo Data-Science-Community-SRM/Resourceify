@@ -118,7 +118,7 @@
 
 - [ ] [Basics of Power BI](https://www.edx.org/course/basics-of-power-bi?source=aw&awc=6798_1603996701_e49a920f851288f4d2f1a74ae661498c&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=631878_javarevisited) (by James Hallam - edX) ~ 2 weeks.
 
-
+- **[Plotly Dash Fundamentals](https://dash.plotly.com/):** Learn how to build interactive web applications for data visualization using Plotly Dash. This resource covers the basics of Dash components, layouts, and callbacks, enabling you to create dynamic and responsive dashboards.
 
   # Contributing
 
