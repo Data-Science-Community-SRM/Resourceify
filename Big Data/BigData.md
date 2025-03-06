@@ -1,6 +1,14 @@
 
 # 8. BIG DATA 
 ### General 
+- [X] [Big Data & Hadoop Full Course](https://www.youtube.com/watch?v=1vbXmCrkT3Y) (by Edureka). ~ 10 hours.
+  1. Introduction to Big Data and Hadoop
+  2. HDFS Architecture
+  3. MapReduce Framework
+  4. Yarn and Hadoop Ecosystem
+  5. Hive, Pig, and HBase
+  6. Real-world use cases
+  
 - [X] [Introduction to Big Data (2015)](https://www.coursera.org/learn/big-data-introduction) (by Ilkay Altintas and Amarnath Gupta from UC San Diego at Coursera). ~ 15 hours.
   1. Introduction to Big Data.
   2. Demystifying Data Science.
