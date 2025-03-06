@@ -5,6 +5,8 @@
 - [The Forward-Forward Algorithm: Some Preliminary Investigations](https://arxiv.org/abs/2212.13345)
 - [LoRA: Low-Rank Adaptation of Large Language Models (included here as it has applications beyond LLMs)](https://arxiv.org/abs/2106.09685)
 - [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
+- [DoReMi: Optimizing Data Mixtures for Domain Adaptation](https://arxiv.org/abs/2305.10426): This paper introduces DoReMi, a method for optimizing data mixtures in domain adaptation, crucial for improving model generalization across different data distributions.
+- [Scaling Laws for Reward Model Overoptimization](https://arxiv.org/abs/2401.00942): This paper explores the scaling laws related to reward model overoptimization, a critical issue in reinforcement learning from human feedback (RLHF) and related areas.
 
 ### Image:
 - ViT related:
@@ -48,6 +50,8 @@
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+- [Mixture-of-Experts Meets Instruction Tuning: Scaling to Extremely Large Language Models](https://arxiv.org/abs/2401.08296): This paper details the scaling of language models using a mixture-of-experts approach combined with instruction tuning, enabling the development of extremely large and capable models.
+- [Long Context Language Modeling Beyond Position Interpolation](https://arxiv.org/abs/2401.04690): This paper explores techniques for extending the context window of language models beyond position interpolation, addressing a critical limitation in handling long-range dependencies.
 
 ### 3D Rendering:
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
@@ -56,7 +60,7 @@
 
 ### Misc:
 - [Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)
-
+- **[DeepSeek-R1: Scaling Up Reasoning via Reinforcement Learning](https://arxiv.org/abs/2501.12948):** This paper introduces DeepSeek-R1-Zero and DeepSeek-R1, reasoning models developed using large-scale reinforcement learning. DeepSeek-R1 demonstrates comparable reasoning performance to OpenAI-o1-1217 and is open-sourced along with distilled dense models.
 
 # Contributing
 

@@ -1,6 +1,7 @@
 
 # Podcasts to Follow Interesting Developments In The Field 
 
+All given podcast are available on Spotify.
 + [TWIML AI Podcast](https://twimlai.com/tag/podcast/)
 + [The Data Skeptic ](https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4?si=gv3IrtPzQs6F9phaHDGpSQ)
 + [The AI Podcast - Nvidia](https://soundcloud.com/theaipodcast)

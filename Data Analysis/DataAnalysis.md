@@ -129,12 +129,7 @@ Ignacio Martín, Olatz Arbelaitz, Txus Perez. *Master in Computational Engineeri
   3. Filter and arrange.
   4. Summarise and the pipe operator.
   5. Group_by and working with databases.
-- [ ] [Joining Data in R with `dplyr`](https://www.datacamp.com/courses/joining-data-in-r-with-dplyr) (by Garrett Grolemund at DataCamp). ~ 4 hours.
-  1. Mutating joins.
-  2. Filtering joins and set operations.
-  3. Assembling data.
-  4. Advanced joining.
-  5. Case Study.
+
 - [ ] [Exploratory Data Analysis in R: Case Study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study) (by David Robinson at DataCamp). ~ 4 hours.
   1. Data cleaning and summarizing with `dplyr`.
   2. Data visualization with `ggplot2`.

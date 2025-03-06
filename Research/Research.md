@@ -11,6 +11,8 @@
 3. Design of articles.
 4. Real Applications.
 
+- **Paperpal Resources:** Explore Paperpal's resources for streamlining your research process, including AI-powered tools for proofreading, citation generation, and more. Learn about different research methodologies (qualitative, quantitative, and mixed-method) and key components of a good research methodology. [Paperpal](https://paperpal.com/blog/academic-writing-guides/what-is-research-methodology)
+
 # Contributing
 
 Contributions are very welcome! Please share back with the wider community (and get credited for it).

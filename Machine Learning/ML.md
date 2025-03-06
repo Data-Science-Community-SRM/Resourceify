@@ -1,6 +1,8 @@
 
 # 4. MACHINE LEARNING <sub><sup><sub>([back &uarr;](#table-of-contents))</sub></sup></sub>
-## Octave/Matlab 
+
+**Note:** If you are new to machine learning, it is highly recommended to start with Andrew Ng's "Machine Learning" course on Coursera. It provides a solid foundation in the core concepts and algorithms. While Coursera offers a paid certificate, you can often audit the course for free to access the lecture videos. Additionally, you may find recordings of these lectures on platforms like YouTube if you are unable to access them through Coursera. Mastering the fundamentals from this course will significantly aid your understanding of more advanced topics.
+
 - [X] [Machine Learning](https://www.coursera.org/learn/machine-learning) (by Andrew Ng from at Stanford at Coursera). ~ 55 hours.
   1. Introduction.
   2. Linear Regression with One Variable.

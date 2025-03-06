@@ -1,4 +1,7 @@
 ## Data Structures and Algorithms
+- **Abdul Bari's YouTube Channel:** For comprehensive explanations of Data Structures and Algorithms, particularly in C/C++, Abdul Bari's channel is an invaluable resource. His clear and concise teaching style makes complex topics easy to understand.
+- **Striver's SDE Sheet:** A highly recommended resource for interview preparation, Striver's SDE Sheet provides a curated list of essential Data Structures and Algorithms problems. It's a structured approach to mastering common interview questions.
+- **SDE Sheets (General):** Beyond Striver's sheet, many other SDE (Software Development Engineer) sheets exist, often compiled by experienced engineers, offering a variety of problems and approaches to learning.
 
 - [Stanford Algorithms - Coursera](https://www.coursera.org/specializations/algorithms)
 - [Introduction to Algorithms (MIT 6.006)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)

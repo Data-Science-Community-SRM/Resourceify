@@ -28,6 +28,8 @@
   
 - [ ] [Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) (by Stanford University). ~25 hours.
 
+- [ ] [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/en/chapter1/1): This comprehensive course by Hugging Face provides in-depth knowledge of modern NLP techniques using the Transformers library. It covers topics like tokenization, fine-tuning pre-trained models, and building various NLP applications. This course is particularly valuable for staying up-to-date with the latest advancements in transformer-based NLP.
+
 # R 
 - [X] [Introduction to Text Analysis in R](https://www.datacamp.com/courses/introduction-to-text-analysis-in-r) (by Marc Dotson at DataCamp). ~ 4 hours.
   1. Wrangling Text.

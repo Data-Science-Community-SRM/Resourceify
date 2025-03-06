@@ -26,6 +26,10 @@
   2. Learn to build and train Recurrent Neural Networks (RNNs) and variants such as GRUs and LSTMs, which are commonly used in sequence modeling.
   3. Gain experience with natural language processing and Word Embeddings, which are essential for processing text data, and use HuggingFace tokenizers and transformer models to solve NLP tasks such as Named Entity Recognition (NER) and Question Answering. 
 
+- [X] [CS231n Winter 2016](http://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) by Andrej Karpathy
+
+- [X] [Neural networks](http://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown
+
 - [X] [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) (by Sharon Zhou from deeplearning.ai at Coursera) ~ 9 hours. 
   1. Learn about GANs and their applications
   2. Understand the intuition behind the fundamental components of GANs
